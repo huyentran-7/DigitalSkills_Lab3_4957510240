@@ -14,17 +14,17 @@
 
 ## DANH SÁCH TÀI LIỆU 
 
-1. **Những kỹ năng cần có của nghề biên - phiên dịch Tiếng Anh**
-   *Tác giả*: Khoa Ngoại ngữ - Tin học, Trường Đại học Văn hóa, Thể thao và Du lịch Thanh Hóa
-   *Năm xuất bản*: 2024
-   *Nguồn*: http://khoannth.tucst.edu.vn
+1. **Những kỹ năng cần có của nghề biên - phiên dịch Tiếng Anh**  
+   *Tác giả:* Khoa Ngoại ngữ - Tin học, Trường Đại học Văn hóa, Thể thao và Du lịch Thanh Hóa  
+   *Năm xuất bản:* 2024  
+   *Nguồn:* http://khoannth.tucst.edu.vn  
 
-2. **Một số kỹ năng biên - phiên dịch Tiếng Anh**
-   *Tác giả*: Hồng Nguyễn
-   *Năm xuất bản*: 2026
-   *Nguồn*: timviec365.vn
+2. **Một số kỹ năng biên - phiên dịch Tiếng Anh**  
+   *Tác giả:* Hồng Nguyễn  
+   *Năm xuất bản:* 2026  
+   *Nguồn:* timviec365.vn  
 
-3. **7 kỹ năng chủ chót của nghề phiên dịch viên**
-   *Tác giả*: Hồng Nguyễn
-   *Năm xuất bản*: 2025
-   *Nguồn*: https://glints.com/vn/blog/
+3. **7 kỹ năng chủ chót của nghề phiên dịch viên**  
+   *Tác giả:* Hồng Nguyễn  
+   *Năm xuất bản:* 2025  
+   *Nguồn:* https://glints.com/vn/blog/  
