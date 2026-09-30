@@ -25,6 +25,6 @@
    *Nguồn:* timviec365.vn  
 
 3. **7 kỹ năng chủ chót của nghề phiên dịch viên**  
-   *Tác giả:* Hồng Nguyễn  
+   *Tác giả:* Glints  
    *Năm xuất bản:* 2025  
    *Nguồn:* https://glints.com/vn/blog/  
