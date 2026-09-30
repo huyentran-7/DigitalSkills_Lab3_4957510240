@@ -24,7 +24,7 @@
    *Năm xuất bản:* 2026  
    *Nguồn:* timviec365.vn  
 
-3. **7 kỹ năng chủ chót của nghề phiên dịch viên**  
+3. **7 kỹ năng chủ chốt của nghề phiên dịch viên**  
    *Tác giả:* Glints  
    *Năm xuất bản:* 2025  
    *Nguồn:* https://glints.com/vn/blog/  
